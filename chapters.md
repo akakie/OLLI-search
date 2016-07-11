@@ -29,18 +29,17 @@ These links will take you to another internet site which will provide additional
 
 ### Search for information
 
-You will also encounter a set of search terms which will help you to search the internet for multiple sites related to our discussions. The prefix **Search for:**_ will be followed by a few words. Copy the words listed, paste them into the search field of your browser, and execute the search. This should return a list of web sites on our current topic. Browse through some of them for more information on the topic.
+You will also encounter a set of search terms which will help you to search the internet for multiple sites related to our discussions. The prefix **Search for:** will be followed by a few keywords. Copy the keywords listed, paste them into the search field of your browser, and execute the search. This should return a list of web sites on our current topic. Browse through some of them for more information on the topic.
 
 ## Home Tasks ##
 
 1. Download the Notes File from the OLLI server and save it on your computer. When you are working with the file, use the saved PDF version, not a printed copy. The Notes File is small and should not take long to download.
-2. Visit the page at http://goo.gl/ZTnBNl . ( i) This page is from About.com/tech on the topic of searching. Read or at least look through the different pages on searching.
+2. Visit the page at http://goo.gl/ZTnBNl . This page is from About.com/tech on the topic of searching. Read or at least look through the different pages on searching.
 
-## Basic Searching
-	The simplest form of searching is to simply type a question in the search bar and press return. This is often sufficient. We will experiment with this in the remaining time in the first day.
+# DAY 2 Basic Searching
+	The simplest form of searching is to type a question in the search bar and press return. Searching has been adding Artificial Intelligence  (AI) or Machine Intelligence (MI) to the software involved in the process.  This is often sufficient but may produce a lot of responses to the query. Fortunately, it is possible to add refinements to reduce the responses.
 
-
-
+---
 	
 ## Day 2
 	1.	Search engines, web sites, browsers
