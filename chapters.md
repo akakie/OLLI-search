@@ -37,29 +37,32 @@ You will also encounter a set of search terms which will help you to search the 
 2. Visit the page at http://goo.gl/ZTnBNl . This page is from About.com/tech on the topic of searching. Read or at least look through the different pages on searching.
 
 # DAY 2 Basic Searching
-	The simplest form of searching is to type a question in the search bar and press return. Searching has been adding Artificial Intelligence  (AI) or Machine Intelligence (MI) to the software involved in the process.  This is often sufficient but may produce a lot of responses to the query. Fortunately, it is possible to add refinements to reduce the responses.
+	The simplest form of searching is to type a question in the search bar and press return. Searching has been adding Artificial Intelligence  (AI) or Machine Intelligence (MI) to the software involved in the process.  This is often sufficient but may produce a lot of responses to the query. Fortunately, it is possible to add refinements to reduce the responses. This practice is commonly known as "filtering" and is dependent on which search tool you are using. Filtering with Google will be different from filtering with Firefox or with DuckDuckGo.
+	
+	To see a list of filters for Google searches, see https://goo.gl/6aP09x.
 
 ---
 	
 ## Day 2
-	1.	Search engines, web sites, browsers
-	2.	Define Boolean searching
-	3.	Discuss browser effects
-	4.	Browser boolean limitations
-	5.	Recommended browsers
-		a.	Chrome
-		b.	Firefox
-		c.	Tor (specialized for security, based on Firefox)
-		d.	Internet Explorer (only for Windows systems)
-		e.	Safari (only if you must)
-	6.	How browsers differ
+
+### Commonly used browsers ###
+
+The most widely used browsers are listed below
+1.	Chrome is the most commonly used browser which is not provided as part of an operating system. It is available on most platforms including Apple, Windows, Linux, and iOS. 
+1.	Firefox is also available on most platforms excluding iOS.
+1.	Tor is a specialized browser based on Firefox. Tor routes connections through multiple relays to conceal the IP address of the originating platform. 
+1.	Internet Explorer is intended for use with Windows systems
+1.	Safari is provided as part of the Apple OS X operating system. 
+		
+How browsers differ
 		a.	Entering search parameters
 		b.	Ease of use
 		c.	Extent of operators
 ## Day 3
 	1.	Search engines
-		a.	Google
+		a.	Google is probably the best known search engine. The expression "Google it" has entered the language 
 		b.	DuckDuckGo
+		c.	Bing
 		c.	Wikipedia (from within site)
 		d.	Many others
 ##Day 4
@@ -73,4 +76,7 @@ You will also encounter a set of search terms which will help you to search the 
 	1.	Questions and maybe even answers
 
 
-
+	1.	Search engines, web sites, browsers
+	2.	Define Boolean searching
+	3.	Discuss browser effects
+	4.	Browser boolean limitations
