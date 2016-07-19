@@ -1,9 +1,20 @@
-# Day 1
+# Searching the Internet
+
+## An OLLI Course in 4 weeks
+by **Lewis Overton**
+Revised for Fall Session 1, 2016
+
+
+University of Alaska Fairbanks
+OSHER Lifelong Learning Institute
+UAF Summer Sessions
+
+# Day 1 Introduction
 
 ## Scope of the course
 	This course will explore searching of the internet. Please be aware that the art and science of searching extremely large data sources is one of the oldest, most studied, and complex topics in all of information technology. Basic searching techniques have become simple to perform. Anyone who has used a computer connected to the internet has performed searches, perhaps without knowing they are doing so. I will introduce extensions beyond basic searching, but in four classes of well under two hours each, I can only point out some places where you can explore in depth. That exploration is up to you, depending on your interest and your perseverance. 
 	
-	The instructor (hereafter known as "I" or "Lewy") will use his (I'm male) personal MacBook Pro running Mac OS X El Capitan, version 10.11.5 for examples and demonstrations. However, the principles of internet searching apply to any operating system including Windows. A Windows computer is available if people want to see how things are done using that OS. I have not used Windows in years, so do not expect amazing, wizardly tips.
+	The instructor (hereafter known as "I", "me", or "Lewy") will use his (I'm male) personal MacBook Pro running Mac OS X El Capitan, version 10.11.5 for examples and demonstrations. However, the principles of internet searching apply to any operating system including Windows. A Windows computer is available if people want to see how things are done using that OS. I have not used Windows in years, so do not expect amazing, wizardly tips.
 
 ## Limitations:
 	Access to the internet is available from our classroom, but it is unlikely that everyone can connect at the same time. The instructor will use a separate connection so that he doesn't get locked out by network overload.
@@ -55,32 +66,29 @@ There are three basic types of search tools that most people use to find what th
 
 >Search results gathered from these search engines are not always relevant to the keywords entered, since these engines are not intuitive and cannot infer dynamically what it is you might be searching for (although results are getting better all the time).
 
+The simplest form of searching is to type a plain language question in the search bar of your browser and press return. An alternative is to go to a website such as Google which offers a web interface to the Google Search Engine.  Note that Google is but one such web interface to proprietary search engines.
 
+Some browsers allow you to specify which search engine you want to use for any default searches. This makes it easy to use a favorite search engine without going through a web page to use it. Both Google and Firefox browser offer this option. Other browsers may offer the same kind of choices. I haven't tried all the browsers, of course. There are far too many.
 
-The simplest form of searching is to type a plain language question in the search bar of your browser and press return. An alternative is to go to a website such as Google,  Searching has been adding Artificial Intelligence  (AI) or Machine Intelligence (MI) to the software involved in the process.  This is often sufficient but may produce a lot of responses to the query. Fortunately, it is possible to add refinements to reduce the responses. This practice is commonly known as "filtering" and is dependent on which search tool you are using. Filtering with Google will be different from filtering with Firefox or with DuckDuckGo.
+## Add Filters to your searches
+
+Search Engines have been adding Artificial Intelligence  (AI) or Machine Intelligence (MI) to the software involved in the process.  A simple query is often sufficient, but may produce a lot of responses to the query. Fortunately, it is possible to add refinements to reduce the responses. This practice is commonly known as "filtering" and is dependent on which search tool you are using. Filtering with Google will be different from filtering with Firefox or with DuckDuckGo.
 	
-	To see a list of filters for Google searches, see https://goo.gl/6aP09x.
+To see a list of filters for Google searches, go to https://goo.gl/6aP09x.
 
 
-## Day 3
-	1.	Search engines
-		a.	Google is probably the best known search engine. The expression "Google it" has entered the language 
-		b.	DuckDuckGo
-		c.	Bing
-		c.	Wikipedia (from within site)
-		d.	Many others
-##Day 4
-	1.	Local data bases of interest
-		d.	Public library 
-	2.	Search with other targets
-		a.	Using Google Advanced Search
-		b.	Using Google Scholar
-	3.	Evaluations
-## Day 5 (optional if needed)
-	1.	Questions and maybe even answers
+# Day 3 Subject Directories #
+
+## Use Subject directories to narrow your search ##
+
+There are many directories covering limited, specialized searches. For example, you may find directories which index sites that focus on books, or free books, directories about gardening, or ... well, pretty much any topic or subject in which you are interested.
 
 
-	1.	Search engines, web sites, browsers
-	2.	Define Boolean searching
-	3.	Discuss browser effects
-	4.	Browser boolean limitations
+# Day 4 The Deep (or Dark) Web #
+
+The deep web, sometimes called the dark web may provide access to local databases which are not interesting or even accessible to the general public and, therefore, are not indexed by major search engines. These might include access to local libraries, databases containing property ownership in your area, a listing of sex offenders or other criminals, and on and on. The OLLI database of classes which you used to download the Notes File for this course is a part of the deep web. 
+	
+## Evaluations
+
+As usual in OLLI classes, we ask that you fill out an evaluation of this course and the instructor. I use these to adapt future courses that I may teach and to build on the experiences of my students and myself. I pay attention, including suggestions for future courses. Anonymous evaluations are fine, but, if you want, you are welcome to include contact information and I will contact you about the course and your opinions.
+
