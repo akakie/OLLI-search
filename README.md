@@ -70,11 +70,13 @@ The simplest form of searching is to type a plain language question in the searc
 
 Some browsers allow you to specify which search engine you want to use for any default searches. This makes it easy to use a favorite search engine without going through a web page to use it. Both Google and Firefox browser offer this option. Other browsers may offer the same kind of choices. I haven't tried all the browsers, of course. There are far too many.
 
+For example, visit http://goo.gl/CxQmfj for a sample of 10 different search engines. You can also continue to scroll down the page for related information and topics. I will visit this site in class to show you what it is like
+
 ## Add Filters to your searches
 
 Search Engines have been adding Artificial Intelligence  (AI) or Machine Intelligence (MI) to the software involved in the process.  A simple query is often sufficient, but may produce a lot of responses to the query. Fortunately, it is possible to add refinements to reduce the responses. This practice is commonly known as "filtering" and is dependent on which search tool you are using. Filtering with Google will be different from filtering with Firefox or with DuckDuckGo.
 	
-To see a list of filters for Google searches, go to https://goo.gl/6aP09x.
+To see a list of filters **for Google searches**, go to https://goo.gl/6aP09x. Remember that these filters apply only to Google,. In addition, Google has discontinued use of the + symbol to require that a search item is required to be present in the results. Other search engines often use a similar a similar set of codes, including + symbol. Look for filter definitions for search engines you may use.
 
 
 # Day 3 Subject Directories #
