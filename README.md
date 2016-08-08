@@ -1,32 +1,32 @@
 # Searching the Internet
 
 ## An OLLI Course in 4 weeks
-by **Lewis Overton**
-Revised for Fall Session 1, 2016
+by **Lewis Overton**  
+Revised for Fall Session 1, 2016  
 
 
-University of Alaska Fairbanks
-OSHER Lifelong Learning Institute
-UAF Summer Sessions
+University of Alaska Fairbanks  
+OSHER Lifelong Learning Institute  
+UAF Summer Sessions  
 
 # Day 1 Introduction
 
 ## Scope of the course
-	This course will explore searching of the internet. Please be aware that the art and science of searching extremely large data sources is one of the oldest, most studied, and complex topics in all of information technology. Basic searching techniques have become simple to perform. Anyone who has used a computer connected to the internet has performed searches, perhaps without knowing they are doing so. I will introduce extensions beyond basic searching, but in four classes of well under two hours each, I can only point out some places where you can explore in depth. That exploration is up to you, depending on your interest and your perseverance. 
+This course will explore searching of the internet. Please be aware that the art and science of searching extremely large data sources is one of the oldest, most studied, and complex topics in all of information technology. Basic searching techniques have become simple to perform. Anyone who has used a computer connected to the internet has performed searches, perhaps without knowing they are doing so. I will introduce extensions beyond basic searching, but in four classes of well under two hours each, I can only point out some places where you can explore in depth. That exploration is up to you, depending on your interest and your perseverance. 
 	
-	The instructor (hereafter known as "I", "me", or "Lewy") will use his (I'm male) personal MacBook Pro running Mac OS X El Capitan, version 10.11.5 for examples and demonstrations. However, the principles of internet searching apply to any operating system including Windows. A Windows computer is available if people want to see how things are done using that OS. I have not used Windows in years, so do not expect amazing, wizardly tips.
+The instructor (hereafter known as "I", "me", or "Lewy") will use his (I'm male) personal MacBook Pro running Mac OS X El Capitan, version 10.11.5 for examples and demonstrations. However, the principles of internet searching apply to any operating system including Windows. A Windows computer is available if people want to see how things are done using that OS. I have not used Windows in years, so do not expect amazing, wizardly tips.
 	
-	We will be looking at three levels of the internet: the Surface Web, the Deep Web, and the Dark Web.The surface web is the part that is searchable from sites like Google and similar search engines, which accumulate web addresses by crawling through thousands of web sites and building an index of words found at those sites. The Deep Web refers to online databases and other dynamic pages that cannot be indexed by common search engines like Google. These sites contain data which are accessed behind forms that provide access to details. The Dark Web contains data which people are trying to hide. Those people may be drug dealers, gun dealers, and others who may have nefarious reasons for keeping you out. We will discuss the dark web, but approach it with caution or, even better, stay away. Here be dragons. 
+We will be looking at three levels of the internet: the Surface Web, the Deep Web, and the Dark Web.The surface web is the part that is searchable from sites like Google and similar search engines, which accumulate web addresses by crawling through thousands of web sites and building an index of words found at those sites. The Deep Web refers to online databases and other dynamic pages that cannot be indexed by common search engines like Google. These sites contain data which are accessed behind forms that provide access to details. The Dark Web contains data which people are trying to hide. Those people may be drug dealers, gun dealers, and others who may have nefarious reasons for keeping you out. We will discuss the dark web, but approach it with caution or, even better, stay away. Here be dragons. 
 
 ## Limitations:
-	Access to the internet is available from our classroom, but it is unlikely that everyone can connect at the same time. The instructor will use a separate connection so that he doesn't get locked out by network overload.
+Access to the internet is available from our classroom, but it is unlikely that everyone can connect at the same time. The instructor will use a separate connection so that he doesn't get locked out by network overload.
 	
-	Most of the capability to search the internet is dependent on software running on a remote computer. The search capabilities are only marginally related to to the browser you use. Your choice of browser will be touched on only lightly and is mostly decided by personal taste and ease of use. My primary browsers are Chrome, Firefox. I occasionally use Safari or Tor, both of which may be chosen for capabilities unique to what they do in specific circumstances.  
+Most of the capability to search the internet is dependent on software running on a remote computer. The search capabilities are only marginally related to to the browser you use. Your choice of browser will be touched on only lightly and is mostly decided by personal taste and ease of use. My primary browsers are Chrome, Firefox. I occasionally use Safari or Tor, both of which may be chosen for capabilities unique to what they do in specific circumstances.  
 
 ## Conventions
-	I have provided a **Notes File** which contains text from the lecture part of the class, links to  sites with relevant information, and suggestions for search terms on specific topics. The Notes File is available from the OLLI Web server (see below).
+I have provided a **Notes File** which contains text from the lecture part of the class, links to  sites with relevant information, and suggestions for search terms on specific topics. The Notes File is available from the OLLI Web server (see below).
 	
-	The  Notes File is provided in PDF (Portable Document Format), which should be readable on any computer. This file is intended to relieve you of the need to copy to paper links and comments from class. I **strongly encourage** you to download the Notes File and save it on your computer. The text is provided in PDF format (Portable Document Format).  All of the searches, downloads, and supporting materials can be used from any location where you have access to the internet. I suggest you work with the Notes File  from home.  Most browsers will take you to the destination website if you click on the link. Work with the PDF file, not a print out. 
+The  Notes File is provided in PDF (Portable Document Format), which should be readable on any computer. This file is intended to relieve you of the need to copy to paper links and comments from class. I **strongly encourage** you to download the Notes File and save it on your computer. The text is provided in PDF format (Portable Document Format).  All of the searches, downloads, and supporting materials can be used from any location where you have access to the internet. I suggest you work with the Notes File  from home.  Most browsers will take you to the destination website if you click on the link. Work with the PDF file, not a print out. 
 	
 ### Using links to additional information
 
