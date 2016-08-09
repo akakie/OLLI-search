@@ -55,17 +55,17 @@ updated February 20, 2016.
 
 There are three basic types of search tools that most people use to find what they are looking for on the Web (there's more than this, but these are the basics that everyone should start with):
 
->>Search Engines - index of selected pages
->>Subject Directories - index by topic
->>MetaSearch Tools - index drawn from multiple search engines
+1. Search Engines - index of selected pages
+1. Subject Directories - index by topic
+1. MetaSearch Tools - index drawn from multiple search engines
 
->None of these search tools allow you to search the entire Web; that would be an almost impossible task. However, you can use these Web search tools to scour different parts of the Web, obtain different types of information, and broaden your Web search horizons.
+None of these search tools allow you to search the entire Web; that would be an almost impossible task. However, you can use these Web search tools to scour different parts of the Web, obtain different types of information, and broaden your Web search horizons.
 
->**Search the Web with Search Engines**
+**Search the Web with Search Engines**
 
->Search engines are proprietary tools which build indexes to a large number of web sites and provide a public link to access the index. They discover sites to index using web crawlers (spiders), entering those sites, and collecting key words which identify the themes of the sites. Google is a well know search index,  You type in a keyword or phrase and the search engine retrieves pages that correspond to your search query. 
+Search engines are proprietary tools which build indexes to a large number of web sites and provide a public link to access the index. They discover sites to index using web crawlers (spiders), entering those sites, and collecting key words which identify the themes of the sites. Google is a well know search index,  You type in a keyword or phrase and the search engine retrieves pages that correspond to your search query. 
 
->Search results gathered from these search engines are not always relevant to the keywords entered, since these engines are not intuitive and cannot infer dynamically what it is you might be searching for (although results are getting better all the time). Although the spiders run 24/7, it takes a long time to cover the surface web. Information from such search indexes is not always current.
+Search results gathered from these search engines are not always relevant to the keywords entered, since these engines are not intuitive and cannot infer dynamically what it is you might be searching for (although results are getting better all the time). Although the spiders run 24/7, it takes a long time to cover the surface web. Information from such search indexes is not always current.
 
 The simplest form of searching is to type a plain language question in the search bar of your browser and press return. An alternative is to go to a website such as Google which offers a web interface to the Google Search Engine.  Note that Google is but one such web interface to proprietary search engines.
 
