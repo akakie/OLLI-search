@@ -1,14 +1,13 @@
 # Searching the Internet
-
 ## An OLLI Course in 4 weeks
-by **Lewis Overton**  
-Revised for Fall Session 1, 2016  
+by **Lewis Overton**
 
-
-University of Alaska Fairbanks  
-OSHER Lifelong Learning Institute  
-UAF Summer Sessions  
-
+```
+Revised for Fall Session 1, 2016
+University of Alaska Fairbanks
+OSHER Lifelong Learning Institute
+UAF Summer Sessions
+```
 # Day 1 Introduction
 
 ## Scope of the course
@@ -16,9 +15,9 @@ This course will explore searching of the internet. Please be aware that the art
 	
 The instructor (hereafter known as "I", "me", or "Lewy") will use his (I'm male) personal MacBook Pro running Mac OS X El Capitan, version 10.11.5 for examples and demonstrations. However, the principles of internet searching apply to any operating system including Windows. A Windows computer is available if people want to see how things are done using that OS. I have not used Windows in years, so do not expect amazing, wizardly tips.
 	
-We will be looking at three levels of the internet: the Surface Web, the Deep Web, and the Dark Web.The surface web is the part that is searchable from sites like Google and similar search engines, which accumulate web addresses by crawling through thousands of web sites and building an index of words found at those sites. The Deep Web refers to online databases and other dynamic pages that cannot be indexed by common search engines like Google. These sites contain data which are accessed behind forms that provide access to details. The Dark Web contains data which people are trying to hide. Those people may be drug dealers, gun dealers, and others who may have nefarious reasons for keeping you out. We will discuss the dark web, but approach it with caution or, even better, stay away. Here be dragons. 
+We will be looking at three levels of the internet: the Surface Web, the Deep Web, and the Dark Web.The surface web is the part that is searchable from sites like Google and similar search engines, which accumulate web addresses by crawling through thousands of web sites and building an index of words found at those sites. The Deep Web refers to online databases and other dynamic pages that cannot be indexed by common search engines like Google. These sites contain data which are accessed behind forms that provide access to details. The Dark Web contains data which people are trying to hide. Those people may be drug dealers, illegel weapons dealers, and others who may have nefarious reasons for keeping you out. We will discuss the dark web, but approach it with caution or, even better, stay away. Here be dragons. 
 
-## Limitations:
+## Limitations
 Access to the internet is available from our classroom, but it is unlikely that everyone can connect at the same time. The instructor will use a separate connection so that he doesn't get locked out by network overload.
 	
 Most of the capability to search the internet is dependent on software running on a remote computer. The search capabilities are only marginally related to to the browser you use. Your choice of browser will be touched on only lightly and is mostly decided by personal taste and ease of use. My primary browsers are Chrome, Firefox. I occasionally use Safari or Tor, both of which may be chosen for capabilities unique to what they do in specific circumstances.  
@@ -40,7 +39,7 @@ Either form of these links will take you to the same internet site. The short fo
 
 ### Search for information
 
-You will also encounter a set of search terms which will help you to search the internet for multiple sites related to our discussions. The prefix **Search for:** will be followed by a few keywords. Copy the keywords listed, paste them into the search field of your browser, and execute the search. This should return a list of web sites on our current topic. Browse through some of them for more information on the topic.
+You may also encounter a set of search terms which will help you to search the internet for multiple sites related to our discussions. The prefix **Search for:** will be followed by a few keywords. Copy the keywords listed, paste them into the search field of your browser, and execute the search. This should return a list of web sites on our current topic. Browse through some of them for more information on the topic.
 
 ## Home Tasks ##
 
@@ -51,9 +50,9 @@ You will also encounter a set of search terms which will help you to search the 
 
 ## Introduction ##
 
-This course draws heavily on http://goo.gl/apdQTS (from https://about.com). Exploring this link will lead you down a long  trail of breadcrumbs about many aspects of internet searching. As Wendy Boswell wrote at http://websearch.about.com/od/internetresearch/a/whatissearch.htm, updated 
+This course draws heavily on http://goo.gl/apdQTS (from https://about.com). Exploring this link will lead you down a long  trail of breadcrumbs about many aspects of internet searching. As Wendy Boswell wrote at http://websearch.about.com/od/internetresearch/a/whatissearch.htm, 
+updated February 20, 2016.
 
->   Updated February 20, 2016.
 There are three basic types of search tools that most people use to find what they are looking for on the Web (there's more than this, but these are the basics that everyone should start with):
 
 >>Search Engines - index of selected pages
@@ -64,7 +63,7 @@ There are three basic types of search tools that most people use to find what th
 
 >**Search the Web with Search Engines**
 
->Search engines are proprietary tools which build indexes toa large number of web sites and provide a public link to access the index. They discover sites to index using web crawlers (spiders), entering those sites, and collecting key words which identify the themes of the sites. Google is a well know search index,  You type in a keyword or phrase and the search engine retrieves pages that correspond to your search query. 
+>Search engines are proprietary tools which build indexes to a large number of web sites and provide a public link to access the index. They discover sites to index using web crawlers (spiders), entering those sites, and collecting key words which identify the themes of the sites. Google is a well know search index,  You type in a keyword or phrase and the search engine retrieves pages that correspond to your search query. 
 
 >Search results gathered from these search engines are not always relevant to the keywords entered, since these engines are not intuitive and cannot infer dynamically what it is you might be searching for (although results are getting better all the time). Although the spiders run 24/7, it takes a long time to cover the surface web. Information from such search indexes is not always current.
 
