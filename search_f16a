@@ -14,8 +14,17 @@ UAF Summer Sessions
 This course will explore searching of the internet. Please be aware that the art and science of searching extremely large data sources is one of the oldest, most studied, and complex topics in all of information technology. Basic searching techniques have become simple to perform. Anyone who has used a computer connected to the internet has performed searches, perhaps without knowing they are doing so. I will introduce extensions beyond basic searching, but in four classes of well under two hours each, I can only point out some places where you can explore in depth. That exploration is up to you, depending on your interest and your perseverance. 
 	
 The instructor (hereafter known as "I", "me", or "Lewy") will use his (I'm male) personal MacBook Pro running Mac OS X El Capitan, version 10.11.5 for examples and demonstrations. However, the principles of internet searching apply to any operating system including Windows. A Windows computer is available if people want to see how things are done using that OS. I have not used Windows in years, so do not expect amazing, wizardly tips.
+
+This course draws heavily on http://goo.gl/apdQTS (from https://about.com). Exploring this link will lead you down a long  trail of breadcrumbs about many aspects of internet searching. Wendy Boswell is author and owner of http://websearch.about.com/od/internetresearch/a/whatissearch.htm, 
+updated February 20, 2016.
 	
-We will be looking at three levels of the internet: the Surface Web, the Deep Web, and the Dark Web.The surface web is the part that is searchable from sites like Google and similar search engines, which accumulate web addresses by crawling through thousands of web sites and building an index of words found at those sites. The Deep Web refers to online databases and other dynamic pages that cannot be indexed by common search engines like Google. These sites contain data which are accessed behind forms that provide access to details. The Dark Web contains data which people are trying to hide. Those people may be drug dealers, illegal weapons dealers, and others who may have nefarious reasons for keeping you out. We will discuss the dark web, but approach it with caution or, even better, stay away. Here be dragons. 
+We will be looking at three levels of the internet: 
+
+>1.  the Surface Web, 
+>1.  the Deep Web, and 
+>1.  the Dark Web.
+
+The surface web is the part that is searchable from sites like Google and similar search engines, which accumulate web addresses by crawling through thousands of web sites and building an index of words found at those sites. The Deep Web refers to online databases and other dynamic pages that cannot be indexed by common search engines like Google. These sites contain data which are accessed behind forms that provide access to details. The Dark Web contains data which people are trying to hide. Those people may be drug dealers, illegal weapons dealers, and others who may have nefarious reasons for keeping you out. We will discuss the dark web, but approach it with caution or, even better, stay away. Here be dragons. 
 
 ## Limitations
 Access to the internet is available from our classroom, but it is unlikely that everyone can connect at the same time. The instructor will use a separate connection so that he doesn't get locked out by network overload.
@@ -50,9 +59,6 @@ You may also encounter a set of search terms which will help you to search the i
 
 ## Introduction ##
 
-This course draws heavily on http://goo.gl/apdQTS (from https://about.com). Exploring this link will lead you down a long  trail of breadcrumbs about many aspects of internet searching. As Wendy Boswell wrote at http://websearch.about.com/od/internetresearch/a/whatissearch.htm, 
-updated February 20, 2016.
-
 There are three basic types of search tools that most people use to find what they are looking for on the Web (there's more than this, but these are the basics that everyone should start with):
 
 1. Search Engines - index of selected pages
@@ -61,17 +67,32 @@ There are three basic types of search tools that most people use to find what th
 
 None of these search tools allow you to search the entire Web; that would be an almost impossible task. However, you can use these Web search tools to scour different parts of the Web, obtain different types of information, and broaden your Web search horizons.
 
-**Search the Web with Search Engines**
+**Simple search**
 
-Search engines are proprietary tools which build indexes to a large number of web sites and provide a public link to access the index. They discover sites to index using web crawlers (spiders), entering those sites, and collecting key words which identify the themes of the sites. Google is a well know search index,  You type in a keyword or phrase and the search engine retrieves pages that correspond to your search query. 
+The simplest form of searching is to type a plain language question in the search bar of your browser and press return. Your web browser will send your question, or a list of important words the you enter, to your default searche engine (abbreviated SE). The SE will parse what your sent and try to find relevant words in the SE index of terms from the internet. 
 
-Search results gathered from these search engines are not always relevant to the keywords entered, since these engines are not intuitive and cannot infer dynamically what it is you might be searching for (although results are getting better all the time). Although the spiders run 24/7, it takes a long time to cover the surface web. Information from such search indexes is not always current.
-
-The simplest form of searching is to type a plain language question in the search bar of your browser and press return. An alternative is to go to a website such as Google which offers a web interface to the Google Search Engine.  Note that Google is but one such web interface to proprietary search engines.
+The browser you use is related to, but not the same as, the SE you use. There are many choices for both browsers and SEs. Both number in the thousands. Results will vary depending on the combination of SE and browser. 
 
 Some browsers allow you to specify which search engine you want to use for any default searches. This makes it easy to use a favorite search engine without going through a web page to use it. Both Google and Firefox browser offer this option. Other browsers may offer the same kind of choices. I haven't tried all the browsers, of course. There are far too many.
 
-For example, visit http://goo.gl/CxQmfj for a sample of 10 different search engines. You can also continue to scroll down the page for related information and topics. I will visit this site in class to show you what it is like
+**Search for:**
+
+1.  web browser list
+2.  search engine list
+
+Here are some examples of simple searches.
+
+[examples are chosen in class]
+
+**Search the Web with Search Engines**
+
+An alternative is to go to a website such as Google which offers a web interface to the Google Search Engine.  Note that Google is but one such web interface to proprietary search engines.
+
+Search engines are proprietary tools which build indexes to a large number of web sites and provide a public link to access the index. They discover sites to index using web crawlers (spiders), entering those sites, and collecting key words which identify the themes of the sites. Google is a well know search index,  You type in a keyword or phrase and the search engine retrieves pages that correspond to your search query. 
+
+For example, visit http://goo.gl/CxQmfj for a sample of 10 different search engines. You can also continue to scroll down the page for related information and topics. I will visit this site in class to show you what it is like.
+
+Search results gathered from these search engines are not always relevant to the keywords entered, since these engines are not intuitive and cannot infer dynamically what it is you might be searching for (although results are getting better all the time). Although the spiders run 24/7, it takes a long time to cover the surface web. Information from such search indexes is not always current.
 
 ### Add Filters to your searches
 
@@ -128,9 +149,11 @@ https://www.oxforddictionaries.com/us
 
 This is but a sample of what is available from widely available databases. Most can be found via the Surface Web because they are registered with search engines. There are many more than I can count, much less demonstrate. 
 
+For references to other wikis, **Search For:** wiki. You will find many topical web sites based on the wiki format.
+
 # The rest of the story
 
-Only a portion of the Internet is accessible from typical search engines like **Google**, **Duck Duck Go**, and other forms of search engines which crawl the web and attempt to index what they find. This method returns a large amount of information which is enough for casual usage, but for serious research purposes, the approximately 500 times more web sites are available through the Deep Web than through the Surface Web.
+Only a portion of the Internet is accessible from typical search engines like **Google**, **Duck Duck Go**, and other forms of search engine based sites which crawl the web and attempt to index what they find. This method returns a large amount of information which is enough for casual usage, but for serious research purposes, the approximately 500 times more web sites are available through the Deep Web than through the Surface Web.
 
 ## The Deep Web ##
 
