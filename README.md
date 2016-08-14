@@ -14,7 +14,7 @@ Content of the course notes is published for use by OLLI students enrolled in th
 2. Browsers
    - Chrome
    - Firefox
-
+1. Text format is Github Flavored Markdown
 ##Caveat Emptor
 
 The notes may or may not be useful to anyone who is not or has not enrolled in the corresponding class. Use at your own risk. 
