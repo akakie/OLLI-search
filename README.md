@@ -8,14 +8,16 @@ Content of the course notes is published for use by OLLI students enrolled in th
 1. MacBook pro
 1. El Capitan 10.11.6
 1. Editors:
-   -   MacDown v0.6 Github flavored markdown editor
    -   Textmate v2 with Github markdown 
+   -   MacDown v0.6 Github flavored markdown editor
+
 1. Source management: Github public repository
 2. Browsers
    - Chrome
    - Firefox
 1. Text format is Github Flavored Markdown
-##Caveat Emptor
+
+
+##Caveat Lector
 
 The notes may or may not be useful to anyone who is not or has not enrolled in the corresponding class. Use at your own risk. 
-
